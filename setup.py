@@ -1,5 +1,4 @@
 import setuptools
-from huggingface_hub.constants import REPOCARD_NAME
 
 with open ("README.md", "r", encoding= "utf-8") as file:
     long_description = file.read()
